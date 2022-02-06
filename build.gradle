@@ -213,7 +213,7 @@ subprojects{ subproject ->
         implementation "com.googlecode.libphonenumber:geocoder:2.94"
         implementation "commons-io:commons-io:2.6"
 
-        implementation "com.android.volley:volley:1.1.1"
+        implementation "com.android.volley:volley:1.2.1"
         
         implementation "com.google.zxing:core:3.4.0"
 
